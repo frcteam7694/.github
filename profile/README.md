@@ -5,7 +5,7 @@
 [Backup Manager](https://github.com/frcteam7694/BackupManager)
 
 ## Our robots
-- 2019 - Larry
-- 2020-2021 - Larry 2.0
-- 2022 - Barry
 - 2023 - [Perry](https://github.com/frcteam7694/Perry)
+- 2022 - Barry
+- 2020-2021 - Larry 2.0
+- 2019 - Larry
