@@ -2,7 +2,7 @@
 <img src="/banner.svg" width="75px"></img>
 
 ## Tools for other teams
-[Backup Manager](https://github.com/frcteam7694/BackupManager)
+[Backup Manager](https://github.com/frcteam7694/BackupManager) (not maintained, recommended, or used anymore)
 
 ## Our robots
 - 2025 - [Ferry](#) (coming soon 👀)
