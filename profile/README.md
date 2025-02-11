@@ -5,7 +5,7 @@
 [Backup Manager](https://github.com/frcteam7694/BackupManager) (not maintained, recommended, or used anymore)
 
 ## Our robots
-- 2025 - [Ferry](#) (coming soon 👀)
+- 2025 - [Ferry](https://github.com/frcteam7694/Ferry) (coming soon 👀)
 - 2024 - [Terry](https://github.com/frcteam7694/Perry)
 - 2023 - [Perry](https://github.com/frcteam7694/Perry)
 - 2022 - [Barry](https://github.com/frcteam7694/Barry) (private)
